@@ -20,14 +20,14 @@ https://youtu.be/4MjX0C7wQ2E
 
 An excel XLS or XLSX file is required to be uploaded to the application with the below column names and data present within the rows for those columns. If there is data missing the system will either generate an error or assign default values. 
 
-# Item ID, ID, Key, Ticket, Story ID
-# Title, Summary, Name, Story
-# Description, Details, Body, User Story
-# Business Area, Domain, Department, BA
-# Business Area Priority, BA Priority
-# Product Team, Team, Squad, Pod
-# Product Team Priority, Team Priority
-# Effort, Story Points, SP, Size (numeric or XS/S/M/L/XL)
+### Item ID, ID, Key, Ticket, Story ID
+### Title, Summary, Name, Story
+### Description, Details, Body, User Story
+### Business Area, Domain, Department, BA
+### Business Area Priority, BA Priority
+### Product Team, Team, Squad, Pod
+### Product Team Priority, Team Priority
+### Effort, Story Points, SP, Size (numeric or XS/S/M/L/XL)
 
 ## Application Link
 
