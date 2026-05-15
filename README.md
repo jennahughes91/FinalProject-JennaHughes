@@ -2,7 +2,7 @@
 
 ## Context, User, and Problem
 
-The target user is anyone who manages a backlog of development. The workflow that is being improved is the prioritization of the work captured in a development backlog. This problem matters because it is critical to always maintain an accurate, prioritized backlog of work so that you can ensure that you're always using your limited resources to work on what has the most impact to your business. What is in the backlog can routinely change so backlog re-prioritization is a workflow that may need to be performed on a near-constant basis for what can amount from dozens, to hundreds, or more of work. 
+The target user is anyone who manages a backlog of development. The workflow that is being improved is the prioritization of the work captured in a development backlog. This problem matters because it is critical to always maintain an accurate, prioritized backlog of work so that you can ensure that you're always using your limited resources to work on what has the most impact to your business. What is in the backlog can routinely change so backlog re-prioritization is a workflow that may need to be performed on a near-constant basis for what can amount from dozens, to hundreds, or more of work items. 
 
 ## Solution and Design
 
