@@ -6,7 +6,7 @@ The target user is anyone who manages a backlog of development. The workflow tha
 
 ## Solution and Design
 
-I built an application that allows you to upload your excel spreadsheet backlog, give weights to business areas and product teams to generate a priority weight to each task and then rank them in ascending order. You can change the weights as many times as you like, save weights as a favorite to use again later, and then export a new excel file with those rankings. The main GenAI design choices were to use reasoning for the ranking system and few-shot prompting for the criteria, rule, and examples.
+I built an application that allows you to upload your excel spreadsheet backlog, give weights to business areas and product teams to generate a priority weight to each backlog work task and then rank them in ascending order. You can change the weights as many times as you like, save weights as a favorite to use again later, and then export a new excel file with those prioritization rankings. The main GenAI design choices were to use reasoning for the ranking system and few-shot prompting for the criteria, rule, and examples.
 
 ## Evaluation and Results
 
