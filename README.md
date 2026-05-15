@@ -10,7 +10,7 @@ I built an application that allows you to upload your excel spreadsheet backlog,
 
 ## Evaluation and Results
 
-I compared against doing the workflow in a manual manner of performing the backlog prioritization in Excel. I ran 8 tests: missing columns, missing values, bad priority values, bad effort values, no item ID column, only one backlog item, an empty file, and column names that don’t match what is required. My evaluation showed that the test cases all had expected results in the app and they were more accurate and quicker than for my manual baseline. This was particularly important for bad priority values and unrecognized column names since those are most likely to appear in real backlogs. A human should still review the results of the app-generated prioritization as it is meant to be used as a helpful starting point for backlog prioritization not the end product. 
+I compared against doing the workflow in a manual manner of performing the backlog prioritization in Excel. I ran 8 tests: missing columns, missing values, bad priority values, bad effort values, no item ID column, only one backlog item, an empty file, and column names that don’t match what is required. My evaluation showed that the test cases all had expected results in the app and they were more accurate and quicker than for my manual baseline. This was particularly important for bad priority values and unrecognized column names since those are most likely to appear in real backlogs. A human should still review the results of the app-generated prioritization as it is meant to be used as a helpful starting point for backlog prioritization not the end product as there are business-related nuances that cannot be accounted for within the app. 
 
 ## Artifact Snapshot
 
